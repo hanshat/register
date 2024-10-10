@@ -6,9 +6,7 @@
   "description": "A showcase of my personal website/portfolio ",
 
   "records": {
-    "A":     ["1.0.0.1", "1.0.0.2"],
-    "AAAA":  ["2000:db8::1", "2000:db8::2"],
-    "CNAME": ["iamhans.thedev.me"],
+    "CNAME": ["iamhans.vercel.app"],
   },
 
   "proxied": true
